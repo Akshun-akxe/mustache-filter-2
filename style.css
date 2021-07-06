@@ -1,0 +1,21 @@
+.btn-info {
+    border-color: white;
+    background-color: black;
+    color: red;
+    font-size: 25px;
+}
+
+.Snapshot-btn {
+    border-color: white;
+    background-color: black;
+    color: red;
+    font-size: 18px;
+}
+
+.Snapshot-btn:hover {
+    border-color: red;
+    background-color: white;
+    color: black;
+    width: 35px;
+    height: 25px;
+}
